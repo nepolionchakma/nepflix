@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "322453782958",
+    "project_id": "nep-tv-d5ebc",
+    "storage_bucket": "nep-tv-d5ebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322453782958:android:f3bcd4d039f4725e94c83f",
+        "android_client_info": {
+          "package_name": "com.app.nepflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3OKI4ulwOXfgGr-g4AKizVQe6KMHXpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322453782958:android:eacbb5f78248e9ab94c83f",
+        "android_client_info": {
+          "package_name": "com.app.neptv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3OKI4ulwOXfgGr-g4AKizVQe6KMHXpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8412258809392369~5988014268"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322453782958:android:6edc982b4b75146194c83f",
+        "android_client_info": {
+          "package_name": "com.jum.buddha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3OKI4ulwOXfgGr-g4AKizVQe6KMHXpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322453782958:android:9287385e4b6db7dd94c83f",
+        "android_client_info": {
+          "package_name": "com.virlabs.androtv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322453782958-0jpkm4e0pd3dlunvhlkjb95c9a0f313f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.virlabs.androtv",
+            "certificate_hash": "1cef5ff8f0abae8765436d7b4a9ee2d32f9d1260"
+          }
+        },
+        {
+          "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3OKI4ulwOXfgGr-g4AKizVQe6KMHXpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
